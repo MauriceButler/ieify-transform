@@ -10,6 +10,14 @@
     "type": "git",
     "url": "https://github.com/MauriceButler/ieify-transform.git"
   },
+  "keywords": [
+    "ie",
+    "internet explorer",
+    "internet exploder",
+    "ieify",
+    "browserify",
+    "transform"
+  ],
   "author": "Maurice Butler <maurice.butler@gmail.com>",
   "license": "MIT",
   "bugs": {
