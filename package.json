@@ -1,6 +1,6 @@
 {
   "name": "ieify-transform",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Browserify transform for ieify",
   "main": "index.js",
   "scripts": {
