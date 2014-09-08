@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MauriceButler/ieify-transform",
   "dependencies": {
+    "ieify": "^1.0.0",
     "through": "^2.3.4"
   },
   "devDependencies": {
