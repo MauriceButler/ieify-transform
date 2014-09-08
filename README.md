@@ -1,4 +1,3 @@
-ieify-transform
-===============
+# ieify-transform
 
-Browserify transform for ieify
+Browserify transform for [ieify](https://www.npmjs.org/package/ieify)

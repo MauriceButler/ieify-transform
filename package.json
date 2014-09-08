@@ -1,0 +1,22 @@
+{
+  "name": "ieify-transform",
+  "version": "0.0.0",
+  "description": "Browserify transform for ieify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MauriceButler/ieify-transform.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/ieify-transform/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/ieify-transform",
+  "dependencies": {
+    "through": "^2.3.4"
+  }
+}
