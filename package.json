@@ -4,7 +4,7 @@
   "description": "Browserify transform for ieify",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./tests"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/MauriceButler/ieify-transform",
   "dependencies": {
     "through": "^2.3.4"
+  },
+  "devDependencies": {
+    "grape": "^1.0.2",
+    "mockery": "^1.4.1"
   }
 }

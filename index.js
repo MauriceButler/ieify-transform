@@ -2,7 +2,7 @@ var through = require('through'),
     ieify = require('ieify');
 
 module.exports = function (file) {
-    if (!/\.js/.test(file)) {
+    if (!/\.js$/i.test(file)) {
         return through();
     }
 
